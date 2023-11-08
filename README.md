@@ -17,4 +17,4 @@ Navigate to the project directory:
 
 Then run the Sudoku solver script:
 
-      python sudoku.py puzzle.txt
+     python sudoku.py puzzle.txt
